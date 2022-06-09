@@ -11,7 +11,7 @@ body {
   background-position: left;
 }
 
-#Hero-Section a{
+a{
   text-decoration: none;
 }
 
@@ -20,8 +20,6 @@ body {
 #Acerca-de-mi p{
   line-height: 30px;
 }
-
-
 
 /* Mis trabajos */
 

@@ -1,0 +1,89 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    border: 0;
+} */
+
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.header{
+    padding: 40px;
+    background-image: url(../img/fondo1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+
+.header h1{
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5em;
+    font-weight: 500;    
+}
+
+.header p{
+    text-align: right;
+    font-family: cursive, Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    font-weight: 200;
+    margin-top: -40px;
+}
+
+.section{
+    margin: 45px;
+}
+
+.section h3{
+    text-align: center;
+    font-size: 2.3rem;
+    font-weight: 300;
+    margin: 20px;
+    background-color: rgba(206, 37, 37, 0.8);
+    padding: 15px;
+}
+
+.section table{
+    width: 50%;
+    margin: auto;
+    border: 2px solid rgb(235, 195, 195);
+}
+
+.section td{
+    border: 1px solid rgb(229, 185, 185);
+    padding: 20px;
+}
+
+.section img{
+    vertical-align: top;
+}
+
+.section h4{
+    margin: 20px;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 300;
+}
+
+.section p{
+    margin: 20px;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 200;
+}
+
+.footer{
+    background-color: rgba(206, 37, 37, 0.8);
+}
+
+.footer table{
+    margin: auto;
+}
+
+.footer p{
+    margin: 20px;
+    font-size: 1rem;
+}

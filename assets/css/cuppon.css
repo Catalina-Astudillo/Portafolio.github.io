@@ -1,0 +1,49 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    background-color: #28A745;
+}
+
+.logo_navbar{
+    height: 30px;
+}
+
+.card-tittle{
+    color: #212529;
+    font-weight: 300;
+}
+
+.card-text{
+    color: #707070;
+    font-weight: 300;
+}
+
+.texto2{
+    color: #707070;
+    font-weight: 300;
+}
+
+.parrafo1{
+    color: #28A745;
+    font-weight: 500;
+}
+
+.formulario{
+    background-color: #28A745;
+    color: white;
+    font-weight: 500;
+}
+
+.imagen-footer{
+    width: 100px;
+    vertical-align: auto;
+}
+
+footer{
+    font-weight: 300;
+}
+
+
+
