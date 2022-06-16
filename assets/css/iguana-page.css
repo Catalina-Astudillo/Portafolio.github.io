@@ -108,3 +108,7 @@ footer p{
     font-weight: 300;
 
 }
+a{
+    text-decoration: none;
+    color: white;
+}
